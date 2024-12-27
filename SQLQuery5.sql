@@ -1,0 +1,8 @@
+
+DELETE FROM EMPL1 WHERE Name = 'Priya';
+Select * from EMPL1
+
+ALTER TABLE EMPL1 ADD Job_Code VARCHAR(20)
+Select*from EMPL1
+
+
